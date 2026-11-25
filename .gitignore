@@ -1,0 +1,7 @@
+# data, weights and run outputs are not tracked
+data/
+runs/
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
